@@ -1,7 +1,6 @@
 // expose.js
 
 window.addEventListener('DOMContentLoaded', init);
-
 const jsConfetti = new JSConfetti(); 
 function init() {
   let hornSelector = document.getElementById('horn-select');
